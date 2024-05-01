@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #212529;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+p{
+    margin-left: 30px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    color: white;
+}
+.second{
+    font-size: 20px;
+}
+.main{
+    background-color: #267DFD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+}
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.third{
+    color: black;
+    font-size: 20px;
+    margin: 0px 0px 16px;
+}
+.lead{
+    color: black;
+}
+.service{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 130px;
+    background-color: #F8F9FA;
+    height: 400px;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 130px;
+}
+
+.foot{
+    background-color:#212529;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 180px;
+    margin-top: 120px;
+}
